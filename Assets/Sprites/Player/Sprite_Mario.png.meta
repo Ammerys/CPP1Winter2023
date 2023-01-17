@@ -201,7 +201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_4
+      name: Mario_Shell_walk
       rect:
         serializedVersion: 2
         x: 71
@@ -222,7 +222,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_5
+      name: Mario_Shell_walk2
       rect:
         serializedVersion: 2
         x: 88
@@ -243,7 +243,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_6
+      name: Mario_Shell_kick
       rect:
         serializedVersion: 2
         x: 107
@@ -264,7 +264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_7
+      name: Mario_Shell_bounce
       rect:
         serializedVersion: 2
         x: 125
@@ -285,7 +285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_Jump
+      name: Mario_Jump
       rect:
         serializedVersion: 2
         x: 144
@@ -1416,9 +1416,9 @@ TextureImporter:
       Mario_Jump_Atk6: 1485887593
       Sprite_Mario_23: 649595418
       Mario_Walk2: -1673956865
-      Sprite_Mario_6: -316653928
       Sprite_Mario_12: -1769090289
       Sprite_Mario_21: 1010882164
+      Mario_Shell_walk: -446739107
       Sprite_Mario_42: -1289021946
       Mario_Idle: -1078128032
       Sprite_Mario_33: 1693431285
@@ -1429,6 +1429,7 @@ TextureImporter:
       Sprite_Mario_37: 841966480
       Sprite_Mario_52: 2013779655
       Sprite_Mario_11: -1039397412
+      Mario_Jump: 1063523607
       Sprite_Mario_32: -1918680016
       Sprite_Mario_10: 348299313
       Sprite_Mario_45: -577559244
@@ -1437,28 +1438,27 @@ TextureImporter:
       Sprite_Mario_14: -1939487497
       Sprite_Mario_38: 266805225
       Mario_Jump_Atk3: -98434828
-      Sprite_Mario_Jump: 1063523607
       Sprite_Mario_34: 1032363558
+      Mario_Shell_walk2: 2086843716
+      Mario_Shell_kick: -316653928
       Sprite_Mario_20: 1164046152
       Sprite_Mario_26: -1951912570
-      Sprite_Mario_5: 2086843716
+      Sprite_Mario_17: 1599440288
       Sprite_Mario_15: -891599125
       Mario_Walk1: 1124259629
-      Sprite_Mario_17: 1599440288
+      Sprite_Mario_24: -1470669291
       Mario_Fire3: -1832375414
       Sprite_Mario_9: 177063370
       Sprite_Mario_18: -1057669924
       Mario_Jump_Atk4: -1236513800
-      Sprite_Mario_51: 1976294529
       Mario_Fire2: 1357471868
       Mario_Jump_Atk5: 282891835
+      Sprite_Mario_51: 1976294529
       Sprite_Mario_25: 1050963014
-      Sprite_Mario_24: -1470669291
-      Sprite_Mario_4: -446739107
-      Sprite_Mario_60: -317616988
-      Sprite_Mario_35: -1180078169
-      Sprite_Mario_59: 763997459
       Sprite_Mario_39: 1040276981
+      Sprite_Mario_35: -1180078169
+      Sprite_Mario_60: -317616988
+      Sprite_Mario_59: 763997459
       Mario_Jump_Atk2: 1840830257
       Sprite_Mario_41: -1429226072
       Sprite_Mario_36: 745115739
@@ -1466,8 +1466,8 @@ TextureImporter:
       Sprite_Mario_30: 696372279
       Sprite_Mario_28: 204969362
       Sprite_Mario_40: 295090506
-      Sprite_Mario_7: -623970649
       Sprite_Mario_16: -766701169
+      Mario_Shell_bounce: -623970649
       Mario_Fire1: 622398930
   spritePackingTag: 
   pSDRemoveMatte: 0
